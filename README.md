@@ -10,6 +10,6 @@ To use it :
 - Now you can setup the environment with :
     - in **linux** `source ./venv/bin/activate`
     - in **windows** (in a Powershell) `.\venv\Scripts\Activate.ps1`
-- Install dependencies with `pip install requirements.txt`
+- Install dependencies with `pip install -r requirements.txt`
 - Now run with `python main.py`
 
